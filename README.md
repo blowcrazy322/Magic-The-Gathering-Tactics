@@ -222,4 +222,4 @@ Magic: The Gathering - Tactics is available as a full free version with all feat
 Download Magic: The Gathering - Tactics today and dive into the world of collectible card strategy!
 
 ---
-**Last updated:** 2026-09-20 16:32:09 UTC
+**Last updated:** 2026-09-20 19:05:54 UTC
